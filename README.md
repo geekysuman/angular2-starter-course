@@ -8,6 +8,18 @@ Angular 2 is the great new framework that will provide us a great deal of flexib
 - Create an Angular 2 starter kit: [GitHub](https://github.com/scotch-io/angular2-starter-basic) and [Plunker](http://plnkr.co/edit/V5tKs3?p=info)
 - Understand what goes into setting up Angular 2
 
+
+## Technology Stack
+- Typescript
+- Angular 2
+- System.js
+
+## References
+- [Angular Spree](https://github.com/aviabird/angularspree)
+- [Angular Documentation](https://angular.io/)
+- [Angular Starter Kit](https://github.com/scotch-io/angular2-starter-basic)
+
+
 ## Setup
 
 The environment setup is the biggest reason developers have not gotten into Angular 2. We're going to clarify the setup and talk about why it's necessary.
